@@ -159,10 +159,7 @@ curl -X POST http://localhost:5000/predict \
   -d '{"flow_duration":76978.0,"total_fwd_packets":2.0,"total_backward_packets":2.0,"total_length_fwd_packets":78.0}'
 ```
 
----
 
-## 📄 License
-Distributed under the MIT License. See `LICENSE` for details.
 
 ## 🤝 Acknowledgments
 - Canadian Institute for Cybersecurity (CIC) for the CICIDS2017 Dataset.
